@@ -1,6 +1,7 @@
 title: 你好github，你好hexo
 date: 2015-06-01 06:31:50
 tags:
+categories: linux
 ---
 
 百度空间终于死掉了，也同时导致了不怎么信任这些国内免费的blog了,
