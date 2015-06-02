@@ -1,5 +1,5 @@
 title: 第一弹：了解btrfs
-date: 2015-05-31 23:15:46
+date: 2015-06-2 10:15:46
 tags: btrfs,archlinux
 ---
 文件系统，应该是在后台默默工作的存在，比如很多windows用户，用windows好多年，也不见得
