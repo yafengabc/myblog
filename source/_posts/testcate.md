@@ -4,9 +4,7 @@ tags:
 - linux 
 - btrfs 
 - filesystem
-categories: 
-- linux 
-- btrfs
+categories: linux
 ---
 
 这是一个测试，测试分类与标签
