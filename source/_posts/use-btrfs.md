@@ -1,6 +1,8 @@
 title: 第一弹：了解btrfs
 date: 2015-06-2 10:15:46
-tags: btrfs,archlinux
+tags: 
+- btrfs
+- archlinux
 ---
 文件系统，应该是在后台默默工作的存在，比如很多windows用户，用windows好多年，也不见得
 知道自己使用的什么文件系统，就算linux用户，一般也就在安装时选择一下就OK了，一般也完全
