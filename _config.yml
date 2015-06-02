@@ -10,6 +10,9 @@ author: Yafeng
 language: zh-CN
 timezone: Asia/Shanghai
 
+
+disqus_shortname: yafengabc
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yafengabc.github.io
