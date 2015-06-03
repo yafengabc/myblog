@@ -1,6 +1,10 @@
 title: 你好github，你好hexo
 date: 2015-06-01 06:31:50
-tags: github hexo 随笔
+tags: 
+- github 
+- hexo 
+- 随笔
+
 categories: 随笔
 ---
 
