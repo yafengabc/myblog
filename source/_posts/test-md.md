@@ -1,3 +1,10 @@
+title: 测试markdown
+date: 2015-06-08 16:20:25
+tags: 
+- markdown
+- hexo
+categories: 随笔
+---
 ###测试代码 C/C++
 	#include <stdio.h>
 	int main()
