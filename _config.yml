@@ -66,8 +66,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-#theme: mypacman
-theme: landscape-plus
+theme: pacman
+#theme: landscape-plus
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
