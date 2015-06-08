@@ -32,8 +32,5 @@ categories: 随笔
 ###测试图片
 ![图片](/image/test-md/arch-linux-logo.png)
 
-bc.github.io](http://yafengabc.github.io)   
 
-###测试图片
-![图片](/image/test-md/arch-linux-logo.png)
 

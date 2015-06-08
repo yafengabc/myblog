@@ -13,10 +13,14 @@ menu:
 #### Widgets
 widgets: 
 - category
+- recent_posts
 - tag
+- tagcloud
+- archive
 - links
-- douban
 - rss
+
+
 ## provide seven widgets:category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
