@@ -5,7 +5,7 @@ tags:
 - hexo
 categories: 随笔
 ---
-###测试代码 C/C++
+###测试代码 C/C++ ```C++
 	#include <stdio.h>
 	int main()
 	{
