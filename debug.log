@@ -1,0 +1,220 @@
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Hexo version: \u001b[35m3.1.1\u001b[39m","time":"2015-06-08T08:39:50.630Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Working directory: \u001b[35m~/myblog/\u001b[39m","time":"2015-06-08T08:39:50.661Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Config loaded: \u001b[35m~/myblog/_config.yml\u001b[39m","time":"2015-06-08T08:39:51.476Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2015-06-08T08:39:51.698Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2015-06-08T08:39:51.699Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2015-06-08T08:39:51.700Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2015-06-08T08:39:51.701Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2015-06-08T08:39:51.702Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2015-06-08T08:39:52.742Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2015-06-08T08:39:52.743Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Loading database.","time":"2015-06-08T08:39:52.749Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_drafts/use-btrfs.md\u001b[39m","time":"2015-06-08T08:39:52.916Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/draft/use-btrfs.md\u001b[39m","time":"2015-06-08T08:39:52.923Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/hello-github.md\u001b[39m","time":"2015-06-08T08:39:52.925Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/image/first/1.jpg\u001b[39m","time":"2015-06-08T08:39:52.926Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/image/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:39:52.927Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/image/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:39:52.928Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/moble-blog.md\u001b[39m","time":"2015-06-08T08:39:52.929Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/syntax.md\u001b[39m","time":"2015-06-08T08:39:52.930Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/test-md.md\u001b[39m","time":"2015-06-08T08:39:52.931Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/use-hexo.md\u001b[39m","time":"2015-06-08T08:39:52.932Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/image/first/1.jpg\u001b[39m","time":"2015-06-08T08:39:52.934Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/image/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:39:52.935Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/image/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:39:52.959Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/image/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:39:52.966Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/image/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:39:52.970Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/_posts/image/first/hexo.png\u001b[39m","time":"2015-06-08T08:39:52.974Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Added: \u001b[35msource/image/first/hexo.png\u001b[39m","time":"2015-06-08T08:39:52.976Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_drafts/use-btrfs.md\u001b[39m","time":"2015-06-08T08:39:53.066Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35mimage/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:39:53.071Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35mimage/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:39:53.075Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35mimage/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:39:53.079Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35mimage/first/hexo.png\u001b[39m","time":"2015-06-08T08:39:53.082Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35mimage/first/1.jpg\u001b[39m","time":"2015-06-08T08:39:53.095Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/use-hexo.md\u001b[39m","time":"2015-06-08T08:39:53.127Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/test-md.md\u001b[39m","time":"2015-06-08T08:39:53.140Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/syntax.md\u001b[39m","time":"2015-06-08T08:39:53.159Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/moble-blog.md\u001b[39m","time":"2015-06-08T08:39:53.196Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/image/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:39:53.199Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/image/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:39:53.201Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/image/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:39:53.203Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/image/first/hexo.png\u001b[39m","time":"2015-06-08T08:39:53.204Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/image/first/1.jpg\u001b[39m","time":"2015-06-08T08:39:53.209Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/hello-github.md\u001b[39m","time":"2015-06-08T08:39:53.239Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Processed: \u001b[35m_posts/draft/use-btrfs.md\u001b[39m","time":"2015-06-08T08:39:53.266Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2015-06-08T08:40:00.832Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2015-06-08T08:40:00.834Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2015-06-08T08:40:00.835Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2015-06-08T08:40:00.835Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2015-06-08T08:40:00.837Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2015-06-08T08:40:00.843Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2015-06-08T08:40:00.849Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Files loaded in \u001b[36m8.13 s\u001b[39m","time":"2015-06-08T08:40:00.879Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/fonts/FontAwesome.otf\u001b[39m","time":"2015-06-08T08:40:00.984Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/fonts/fontawesome-webfont.ttf\u001b[39m","time":"2015-06-08T08:40:00.986Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/fonts/fontawesome-webfont.eot\u001b[39m","time":"2015-06-08T08:40:00.987Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/bdshare.css\u001b[39m","time":"2015-06-08T08:40:00.989Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/images/banner.jpg\u001b[39m","time":"2015-06-08T08:40:00.990Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/style.css\u001b[39m","time":"2015-06-08T08:40:00.991Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/fancybox_loading.gif\u001b[39m","time":"2015-06-08T08:40:00.992Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/blank.gif\u001b[39m","time":"2015-06-08T08:40:00.993Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/fonts/fontawesome-webfont.svg\u001b[39m","time":"2015-06-08T08:40:00.994Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/fancybox_loading@2x.gif\u001b[39m","time":"2015-06-08T08:40:00.995Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mcss/fonts/fontawesome-webfont.woff\u001b[39m","time":"2015-06-08T08:40:00.995Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/helpers/fancybox_buttons.png\u001b[39m","time":"2015-06-08T08:40:00.996Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/helpers/jquery.fancybox-buttons.css\u001b[39m","time":"2015-06-08T08:40:00.997Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/helpers/jquery.fancybox-buttons.js\u001b[39m","time":"2015-06-08T08:40:00.998Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/helpers/jquery.fancybox-media.js\u001b[39m","time":"2015-06-08T08:40:00.999Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/helpers/jquery.fancybox-thumbs.css\u001b[39m","time":"2015-06-08T08:40:01.000Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/helpers/jquery.fancybox-thumbs.js\u001b[39m","time":"2015-06-08T08:40:01.001Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/fancybox_sprite.png\u001b[39m","time":"2015-06-08T08:40:01.002Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/fancybox_overlay.png\u001b[39m","time":"2015-06-08T08:40:01.003Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/jquery.fancybox.pack.js\u001b[39m","time":"2015-06-08T08:40:01.004Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mimg/scrollup.png\u001b[39m","time":"2015-06-08T08:40:01.005Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mjs/script.js\u001b[39m","time":"2015-06-08T08:40:01.006Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/jquery.fancybox.css\u001b[39m","time":"2015-06-08T08:40:01.006Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/jquery.fancybox.js\u001b[39m","time":"2015-06-08T08:40:01.007Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Deleted: \u001b[35mfancybox/fancybox_sprite@2x.png\u001b[39m","time":"2015-06-08T08:40:01.009Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mimage/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:40:01.047Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mimage/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:40:01.072Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mimage/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:40:01.082Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mimage/first/hexo.png\u001b[39m","time":"2015-06-08T08:40:01.106Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mimage/first/1.jpg\u001b[39m","time":"2015-06-08T08:40:01.124Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/08/test-md/index.html\u001b[39m","time":"2015-06-08T08:40:01.132Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/08/test-md/index.html\u001b[39m","time":"2015-06-08T08:40:01.136Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35m2015/06/08/test-md/index.html\u001b[39m","time":"2015-06-08T08:40:01.137Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/04/syntax/index.html\u001b[39m","time":"2015-06-08T08:40:01.141Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/04/syntax/index.html\u001b[39m","time":"2015-06-08T08:40:01.144Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35m2015/06/04/syntax/index.html\u001b[39m","time":"2015-06-08T08:40:01.151Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/03/moble-blog/index.html\u001b[39m","time":"2015-06-08T08:40:01.154Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/03/moble-blog/index.html\u001b[39m","time":"2015-06-08T08:40:01.158Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35m2015/06/03/moble-blog/index.html\u001b[39m","time":"2015-06-08T08:40:01.159Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/03/use-hexo/index.html\u001b[39m","time":"2015-06-08T08:40:01.161Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/03/use-hexo/index.html\u001b[39m","time":"2015-06-08T08:40:01.164Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35m2015/06/03/use-hexo/index.html\u001b[39m","time":"2015-06-08T08:40:01.165Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/02/draft/use-btrfs/index.html\u001b[39m","time":"2015-06-08T08:40:01.167Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/02/draft/use-btrfs/index.html\u001b[39m","time":"2015-06-08T08:40:01.172Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35m2015/06/02/draft/use-btrfs/index.html\u001b[39m","time":"2015-06-08T08:40:01.174Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/01/hello-github/index.html\u001b[39m","time":"2015-06-08T08:40:01.176Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35m2015/06/01/hello-github/index.html\u001b[39m","time":"2015-06-08T08:40:01.179Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35m2015/06/01/hello-github/index.html\u001b[39m","time":"2015-06-08T08:40:01.181Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35marchives/index.html\u001b[39m","time":"2015-06-08T08:40:01.183Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35marchives/index.html\u001b[39m","time":"2015-06-08T08:40:01.190Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35marchives/index.html\u001b[39m","time":"2015-06-08T08:40:01.192Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35marchives/2015/index.html\u001b[39m","time":"2015-06-08T08:40:01.199Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35marchives/2015/index.html\u001b[39m","time":"2015-06-08T08:40:01.205Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35marchives/2015/index.html\u001b[39m","time":"2015-06-08T08:40:01.210Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35marchives/2015/06/index.html\u001b[39m","time":"2015-06-08T08:40:01.213Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35marchives/2015/06/index.html\u001b[39m","time":"2015-06-08T08:40:01.217Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35marchives/2015/06/index.html\u001b[39m","time":"2015-06-08T08:40:01.219Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mcategories/linux/index.html\u001b[39m","time":"2015-06-08T08:40:01.222Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mcategories/linux/index.html\u001b[39m","time":"2015-06-08T08:40:01.224Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mcategories/linux/index.html\u001b[39m","time":"2015-06-08T08:40:01.226Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mcategories/随笔/index.html\u001b[39m","time":"2015-06-08T08:40:01.228Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mcategories/随笔/index.html\u001b[39m","time":"2015-06-08T08:40:01.230Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mcategories/随笔/index.html\u001b[39m","time":"2015-06-08T08:40:01.232Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2015-06-08T08:40:01.233Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2015-06-08T08:40:01.236Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mindex.html\u001b[39m","time":"2015-06-08T08:40:01.238Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/btrfs/index.html\u001b[39m","time":"2015-06-08T08:40:01.239Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/btrfs/index.html\u001b[39m","time":"2015-06-08T08:40:01.242Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/btrfs/index.html\u001b[39m","time":"2015-06-08T08:40:01.243Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/archlinux/index.html\u001b[39m","time":"2015-06-08T08:40:01.245Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/archlinux/index.html\u001b[39m","time":"2015-06-08T08:40:01.249Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/archlinux/index.html\u001b[39m","time":"2015-06-08T08:40:01.251Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/linux/index.html\u001b[39m","time":"2015-06-08T08:40:01.252Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/linux/index.html\u001b[39m","time":"2015-06-08T08:40:01.256Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/linux/index.html\u001b[39m","time":"2015-06-08T08:40:01.257Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/hexo/index.html\u001b[39m","time":"2015-06-08T08:40:01.265Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/hexo/index.html\u001b[39m","time":"2015-06-08T08:40:01.268Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/hexo/index.html\u001b[39m","time":"2015-06-08T08:40:01.270Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/Markdown/index.html\u001b[39m","time":"2015-06-08T08:40:01.273Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/Markdown/index.html\u001b[39m","time":"2015-06-08T08:40:01.282Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/Markdown/index.html\u001b[39m","time":"2015-06-08T08:40:01.284Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/手机/index.html\u001b[39m","time":"2015-06-08T08:40:01.286Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/手机/index.html\u001b[39m","time":"2015-06-08T08:40:01.288Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/手机/index.html\u001b[39m","time":"2015-06-08T08:40:01.290Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/github/index.html\u001b[39m","time":"2015-06-08T08:40:01.292Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/github/index.html\u001b[39m","time":"2015-06-08T08:40:01.294Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/github/index.html\u001b[39m","time":"2015-06-08T08:40:01.296Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/随笔/index.html\u001b[39m","time":"2015-06-08T08:40:01.298Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":40,"msg":"No layout: \u001b[35mtags/随笔/index.html\u001b[39m","time":"2015-06-08T08:40:01.301Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"Generated: \u001b[35mtags/随笔/index.html\u001b[39m","time":"2015-06-08T08:40:01.302Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":30,"msg":"25 files generated in \u001b[36m423 ms\u001b[39m","time":"2015-06-08T08:40:01.304Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4197,"level":20,"msg":"Database saved","time":"2015-06-08T08:40:01.354Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Hexo version: \u001b[35m3.1.1\u001b[39m","time":"2015-06-08T08:41:18.410Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Working directory: \u001b[35m~/myblog/\u001b[39m","time":"2015-06-08T08:41:18.441Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Config loaded: \u001b[35m~/myblog/_config.yml\u001b[39m","time":"2015-06-08T08:41:19.254Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2015-06-08T08:41:19.476Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2015-06-08T08:41:19.477Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2015-06-08T08:41:19.479Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2015-06-08T08:41:19.480Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2015-06-08T08:41:19.481Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2015-06-08T08:41:20.518Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2015-06-08T08:41:20.519Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Loading database.","time":"2015-06-08T08:41:20.526Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_drafts/use-btrfs.md\u001b[39m","time":"2015-06-08T08:41:20.999Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/draft/use-btrfs.md\u001b[39m","time":"2015-06-08T08:41:21.001Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/hello-github.md\u001b[39m","time":"2015-06-08T08:41:21.002Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/image/first/1.jpg\u001b[39m","time":"2015-06-08T08:41:21.004Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/image/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:41:21.005Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/image/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:41:21.006Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/moble-blog.md\u001b[39m","time":"2015-06-08T08:41:21.009Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/syntax.md\u001b[39m","time":"2015-06-08T08:41:21.010Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/test-md.md\u001b[39m","time":"2015-06-08T08:41:21.012Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/use-hexo.md\u001b[39m","time":"2015-06-08T08:41:21.013Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/image/first/1.jpg\u001b[39m","time":"2015-06-08T08:41:21.014Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/image/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:41:21.016Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/image/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:41:21.018Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/image/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:41:21.024Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/image/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:41:21.025Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/_posts/image/first/hexo.png\u001b[39m","time":"2015-06-08T08:41:21.031Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Unchanged: \u001b[35msource/image/first/hexo.png\u001b[39m","time":"2015-06-08T08:41:21.032Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_drafts/use-btrfs.md\u001b[39m","time":"2015-06-08T08:41:21.051Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35mimage/first/hexo.png\u001b[39m","time":"2015-06-08T08:41:21.065Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/image/first/hexo.png\u001b[39m","time":"2015-06-08T08:41:21.067Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35mimage/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:41:21.071Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/image/test-md/archlinux_logo_glass.png\u001b[39m","time":"2015-06-08T08:41:21.073Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35mimage/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:41:21.077Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35mimage/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:41:21.083Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35mimage/first/1.jpg\u001b[39m","time":"2015-06-08T08:41:21.085Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/use-hexo.md\u001b[39m","time":"2015-06-08T08:41:21.089Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/test-md.md\u001b[39m","time":"2015-06-08T08:41:21.095Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/syntax.md\u001b[39m","time":"2015-06-08T08:41:21.099Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/moble-blog.md\u001b[39m","time":"2015-06-08T08:41:21.102Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/image/use-btrfs/create.png\u001b[39m","time":"2015-06-08T08:41:21.104Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/image/test-md/arch-linux-logo.png\u001b[39m","time":"2015-06-08T08:41:21.105Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/image/first/1.jpg\u001b[39m","time":"2015-06-08T08:41:21.106Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/hello-github.md\u001b[39m","time":"2015-06-08T08:41:21.110Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Processed: \u001b[35m_posts/draft/use-btrfs.md\u001b[39m","time":"2015-06-08T08:41:21.118Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2015-06-08T08:41:28.712Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2015-06-08T08:41:28.714Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2015-06-08T08:41:28.715Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2015-06-08T08:41:28.716Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2015-06-08T08:41:28.718Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2015-06-08T08:41:28.725Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2015-06-08T08:41:28.730Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":30,"msg":"Files loaded in \u001b[36m8.24 s\u001b[39m","time":"2015-06-08T08:41:28.761Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35m2015/06/08/test-md/index.html\u001b[39m","time":"2015-06-08T08:41:28.869Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35m2015/06/04/syntax/index.html\u001b[39m","time":"2015-06-08T08:41:28.880Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35m2015/06/03/moble-blog/index.html\u001b[39m","time":"2015-06-08T08:41:28.886Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35m2015/06/03/use-hexo/index.html\u001b[39m","time":"2015-06-08T08:41:28.892Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35m2015/06/02/draft/use-btrfs/index.html\u001b[39m","time":"2015-06-08T08:41:28.900Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35m2015/06/01/hello-github/index.html\u001b[39m","time":"2015-06-08T08:41:28.904Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35marchives/index.html\u001b[39m","time":"2015-06-08T08:41:28.908Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35marchives/2015/index.html\u001b[39m","time":"2015-06-08T08:41:28.912Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35marchives/2015/06/index.html\u001b[39m","time":"2015-06-08T08:41:28.914Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mcategories/linux/index.html\u001b[39m","time":"2015-06-08T08:41:28.918Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mcategories/随笔/index.html\u001b[39m","time":"2015-06-08T08:41:28.922Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2015-06-08T08:41:28.924Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/btrfs/index.html\u001b[39m","time":"2015-06-08T08:41:28.927Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/archlinux/index.html\u001b[39m","time":"2015-06-08T08:41:28.930Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/linux/index.html\u001b[39m","time":"2015-06-08T08:41:28.933Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/hexo/index.html\u001b[39m","time":"2015-06-08T08:41:28.936Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/Markdown/index.html\u001b[39m","time":"2015-06-08T08:41:28.941Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/手机/index.html\u001b[39m","time":"2015-06-08T08:41:28.944Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/github/index.html\u001b[39m","time":"2015-06-08T08:41:28.947Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":40,"msg":"No layout: \u001b[35mtags/随笔/index.html\u001b[39m","time":"2015-06-08T08:41:28.952Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":30,"msg":"0 files generated in \u001b[36m193 ms\u001b[39m","time":"2015-06-08T08:41:28.955Z","v":0}
+{"name":"hexo","hostname":"ArchNas","pid":4205,"level":20,"msg":"Database saved","time":"2015-06-08T08:41:29.010Z","v":0}
