@@ -16,6 +16,8 @@ categories: 随笔
 		return 0;
 	}
 
+
+另一种
 ```C
 	#include <stdio.h>
 	int main()
