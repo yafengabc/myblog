@@ -6,18 +6,6 @@ tags:
 categories: 随笔
 ---
 ###测试代码 C/C++
-	#include <stdio.h>
-	int main()
-	{
-		int a=1;
-		int b=2;
-		int c=a+b;
-		printf("%d",c);
-		return 0;
-	}
-
-
-###另一种
 
 ```C
 	#include <stdio.h>
@@ -33,12 +21,14 @@ categories: 随笔
 
 	
 ###测试代码 Python
+Python```
 	#import os
 	def hello():
 		print("hello world")
 	hello()
 	os.system("free -h")
-	
+```	
+
 ###测试链接
 `<http://yafengabc.github.io>`  
 <http://yafengabc.github.io>  
