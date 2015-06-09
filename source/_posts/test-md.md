@@ -22,7 +22,7 @@ categories: 随笔
 	
 ###测试代码 Python
 ```python
-	#import os
+	import os
 	def hello():
 		print("hello world")
 	hello()
