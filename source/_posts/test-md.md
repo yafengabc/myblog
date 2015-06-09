@@ -15,6 +15,19 @@ categories: 随笔
 		printf("%d",c);
 		return 0;
 	}
+
+```C
+	#include <stdio.h>
+	int main()
+	{
+		int a=1;
+		int b=2;
+		int c=a+b;
+		printf("%d",c);
+		return 0;
+	}
+```
+
 	
 ###测试代码 Python
 	#import os
