@@ -5,7 +5,9 @@ tags:
 - hexo
 categories: 随笔
 ---
-###测试代码 C/C++ ```C++
+###测试代码 C/C++
+
+```C
 	#include <stdio.h>
 	int main()
 	{
@@ -15,14 +17,18 @@ categories: 随笔
 		printf("%d",c);
 		return 0;
 	}
+```
+
 	
 ###测试代码 Python
-	#import os
+```python
+	import os
 	def hello():
 		print("hello world")
 	hello()
 	os.system("free -h")
-	
+```	
+
 ###测试链接
 `<http://yafengabc.github.io>`  
 <http://yafengabc.github.io>  
