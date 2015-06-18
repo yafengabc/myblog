@@ -27,11 +27,13 @@ categories: C++
     }
 ```
 用下边的命令编译并运行：  
+
 ```bash
     g++ test.cpp
     ./a.out
     362880    
 ```
+
 程序运行的很好，我们把10改为100：
 ```C++
     #include <iostream>
