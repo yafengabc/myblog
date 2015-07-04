@@ -17,7 +17,7 @@ def updateblog():
     print("::pull the change from github:")
     os.system("git add .")
     os.system('git commit -m "update"')
-    os.system("git pull")
+    os.system("git pull --no-edit")
     print("::use hexo g to gen the blog")
     os.system("hexo g")
     print("::update blog")
