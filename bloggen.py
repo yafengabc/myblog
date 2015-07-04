@@ -18,7 +18,13 @@ def updateblog():
     os.system("git pull")
     print("::use hexo g to gen the blog")
     os.system("hexo g")
-    print("update blog")
+    print("::update blog")
+    os.chdir("public")
+    os.system("git pull")
+    os.system("git add .")
+    os.system('git commit -m "auto gen"')
+    os.system("git push")
+    os.chdir("../")
 
     pass
 
