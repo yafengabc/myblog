@@ -22,6 +22,7 @@ def updateblog():
     os.chdir("public")
     os.system("git pull")
     os.system("git add .")
+    os.system("git add --all")
     os.system('git commit -m "auto gen"')
     os.system("git push")
     os.chdir("../")
