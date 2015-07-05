@@ -28,7 +28,7 @@ def updateblog():
     os.system('git commit -m "auto gen"')
     os.system("git push")
     os.chdir("../")
-
+    os.system("cp -a public /myblog/")
     pass
 
 
